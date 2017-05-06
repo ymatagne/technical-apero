@@ -1,0 +1,5 @@
+**/.DS_STORE
+.bundle
+/node_modules/
+/public/
+*.lock

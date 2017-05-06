@@ -1,0 +1,32 @@
+= [.technical.apero]#Technical Apero#
+:organization: norsys
+:position: Developer Advocate
+:twitter: @norsyseasymaker
+:avatar: images/easymakers.png
+
+[.technical.apero%sponsoring]
+== Sponsoring
+[#img-norsys] 
+image::images/easymakers.png[EasyMakers,300,300]
+[.cue]
+****
+include::speaker.adoc[tag=sponsoring]
+****
+
+== Speakers are you !
+image::images/dev.jpg[Developer,384px,400px,role=cover]
+
+== Your ideas
+image::images/idea.jpg[Developer,500px,400px,role=cover]
+
+== Our Beer !
+image::images/beer.jpg[Developer,400,400,role=cover]
+
+== The subject of the evening
+image::images/devops.png[Developer,550,400,role=cover]
+
+== Infrastructure as code
+
+== Continuous Delivery
+
+== Communication
