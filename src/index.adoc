@@ -14,13 +14,13 @@ include::speaker.adoc[tag=sponsoring]
 ****
 
 == Speakers are you !
-image::images/dev.jpg[Developer,384px,400px,role=cover]
+image::images/dev.png[Developer,384px,400px,role=cover]
 
 == Your ideas
-image::images/idea.jpg[Developer,500px,400px,role=cover]
+image::images/idea.png[Developer,500px,400px,role=cover]
 
 == Our Beer !
-image::images/beer.jpg[Developer,400,400,role=cover]
+image::images/beer.png[Developer,400,400,role=cover]
 
 == The subject of the evening
 image::images/devops.png[Developer,550,400,role=cover]
